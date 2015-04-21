@@ -9,3 +9,5 @@ Kits
 Mics
 
 Workshops
+
+Resources
