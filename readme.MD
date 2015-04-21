@@ -1,11 +1,5 @@
-References:
+# Foundlings
 
-http://www.fastcodesign.com/3035259/ideo-releases-chitchat-a-pauseable-walkie-talkie-for-your-iphone
+I seriously don't even have a consise description of this yet, but for now, Foundlings is a larger project consisting of sound-related applications, including a location-based field recorder app, mobile listening kits (based on Good Vibrations), resources, workshops and tours.
 
-http://cordproject.co/index.html#
-
-https://findery.com/
-
-http://soundcityproject.com/#/
-
-http://www.walkwithme.net/cms/
+More to come as the project is fleshed out more...
